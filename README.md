@@ -1,14 +1,34 @@
-<h1 align="center">Hi 👋, I'm Shazada Khan</h1>
-<h3 align="center">Android Dev</h3>
+# Criminal Intent
 
-🔭 I’m currently working on [criminal intent app](https://github.com/SKGitKit/CriminalIntentFinal)
+Criminal Intent is an Android app that lets you track crimes by recording their details, such as date, severity, and whether they have been resolved or not. The app also allows you to upload images related to the crime and add notes.
 
-<h3 align="left">OverView</h3>
+## Features
 
-<p align="left"> 
-App allows users to add criminal activity to database and then mark them as completed or still in progress.
+- Crime recording: Allows you to record details about a crime, including its date, severity, and whether it has been resolved or not.
+- Image uploading: Provides the ability to upload images related to the crime.
+- Notes: Allows you to add notes related to the crime.
+- List of crimes: Displays a list of all the crimes you have recorded in the app.
+- Crime details: Provides detailed information about each crime, including date, severity, resolution status, images, and notes.
 
-</p>
+## Technologies and Tools Used
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> </p>
+- Android SDK
+- Kotlin programming language
+- Android Jetpack (a set of libraries, tools, and guidance for building high-quality Android apps)
+- Room (persistence library for Android)
+- Coroutines (asynchronous programming library for Android)
+- Glide (image loading and caching library for Android)
+
+## Installation and Usage
+
+1. Clone this repository to your local machine.
+2. Open the project in Android Studio.
+3. Build and run the app on an emulator or physical device.
+
+## Contributing
+
+Contributions are welcome! Please feel free to submit a pull request or create an issue if you find a bug or have a suggestion for a new feature.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
